@@ -41,3 +41,16 @@ buildNumber.properties
 *.class
 *.log
 
+.DS_Store
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/sbt.xml
+.idea/scala_settings.xml
+.idea/uiDesigner.xml
+src/main/resources/
+src/test/
